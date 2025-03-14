@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نتائج المباريات - 365Scores</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background-color: blak;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>365Scores - نتائج المباريات</h1>
+        <nav>
+            <ul>
+                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">الفرق</a></li>
+                <li><a href="#">https://www.365scores.com/ar</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="matches">
+        <h2>المباريات المباشرة</h2>
+        <div id="matches-container">
+            <!-- سيتم تحميل المباريات هنا بواسطة JavaScript -->
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 جميع الحقوق محفوظة</p>
+    </footer>
+    
+</body>
+</html>
+
